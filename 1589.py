@@ -8,4 +8,4 @@ for i in range(t):
     lista.append(raio)
 
 for total in lista:
-    print(total)
+    print(sum(total))
